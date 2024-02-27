@@ -1,0 +1,91 @@
+,Causa_muerte,Nivel_marginacion,Prevalencia
+0,Accidentes de transporte,Marginación alta,2.148501
+1,Causas obstetricas,Marginación alta,1.691444
+2,Desnutricion,Marginación alta,1.39987
+3,Diabetes mellitus,Marginación alta,15.946188
+4,Enfermedad bacteriana,Marginación alta,0.613371
+5,Enfermedad metabolica,Marginación alta,1.337899
+6,Enfermedades cardiacas,Marginación alta,23.789152
+7,Enfermedades cerebrovasculares,Marginación alta,4.701667
+8,Enfermedades circulatorias,Marginación alta,0.392741
+9,Enfermedades de la sangre,Marginación alta,1.276011
+10,Enfermedades del sistema nervioso,Marginación alta,1.533467
+11,Enfermedades digestivas,Marginación alta,9.33425
+12,Enfermedades infecciosas intestinales,Marginación alta,0.696297
+13,Homicidio,Marginación alta,4.18657
+14,Infecciones respiratorias,Marginación alta,6.63272
+15,Infecciones y parasitos,Marginación alta,0.192971
+16,Malformaciones congenitas,Marginación alta,1.021939
+17,Otras enfermedades,Marginación alta,8.022487
+18,Otros accidentes,Marginación alta,2.105211
+19,Otros tumores,Marginación alta,2.155937
+20,Suicidios,Marginación alta,0.634781
+21,Trastornos mentales,Marginación alta,0.727843
+22,Tuberculosis,Marginación alta,0.370007
+23,Tumores Benignos,Marginación alta,0.099551
+24,Tumores malignos digestivos,Marginación alta,3.71573
+25,Tumores malignos genitourinarios,Marginación alta,2.363143
+26,Tumores malignos linfaticos,Marginación alta,1.099225
+27,Tumores malignos respiratorios,Marginación alta,0.61806
+28,Tumores tejido y huesos,Marginación alta,0.457846
+29,Virus,Marginación alta,0.73512
+30,Accidentes de transporte,Marginación media,2.832449
+31,Causas obstetricas,Marginación media,1.356413
+32,Desnutricion,Marginación media,0.963276
+33,Diabetes mellitus,Marginación media,14.331449
+34,Enfermedad bacteriana,Marginación media,0.821403
+35,Enfermedad metabolica,Marginación media,1.332754
+36,Enfermedades cardiacas,Marginación media,25.853661
+37,Enfermedades cerebrovasculares,Marginación media,4.356365
+38,Enfermedades circulatorias,Marginación media,0.432947
+39,Enfermedades de la sangre,Marginación media,0.632361
+40,Enfermedades del sistema nervioso,Marginación media,1.603951
+41,Enfermedades digestivas,Marginación media,9.019084
+42,Enfermedades infecciosas intestinales,Marginación media,0.344576
+43,Homicidio,Marginación media,4.648512
+44,Infecciones respiratorias,Marginación media,7.770293
+45,Infecciones y parasitos,Marginación media,0.152532
+46,Malformaciones congenitas,Marginación media,1.004538
+47,Otras enfermedades,Marginación media,6.263628
+48,Otros accidentes,Marginación media,2.509718
+49,Otros tumores,Marginación media,2.530361
+50,Suicidios,Marginación media,1.212552
+51,Trastornos mentales,Marginación media,0.518052
+52,Tuberculosis,Marginación media,0.235683
+53,Tumores Benignos,Marginación media,0.102257
+54,Tumores malignos digestivos,Marginación media,3.497976
+55,Tumores malignos genitourinarios,Marginación media,2.567875
+56,Tumores malignos linfaticos,Marginación media,1.063932
+57,Tumores malignos respiratorios,Marginación media,0.840443
+58,Tumores tejido y huesos,Marginación media,0.550672
+59,Virus,Marginación media,0.650286
+60,Accidentes de transporte,Marginación baja,2.463476
+61,Causas obstetricas,Marginación baja,1.383212
+62,Desnutricion,Marginación baja,0.660688
+63,Diabetes mellitus,Marginación baja,11.952254
+64,Enfermedad bacteriana,Marginación baja,1.076892
+65,Enfermedad metabolica,Marginación baja,1.389702
+66,Enfermedades cardiacas,Marginación baja,23.192784
+67,Enfermedades cerebrovasculares,Marginación baja,4.421995
+68,Enfermedades circulatorias,Marginación baja,0.583237
+69,Enfermedades de la sangre,Marginación baja,0.526923
+70,Enfermedades del sistema nervioso,Marginación baja,1.936852
+71,Enfermedades digestivas,Marginación baja,8.823428
+72,Enfermedades infecciosas intestinales,Marginación baja,0.301899
+73,Homicidio,Marginación baja,5.525966
+74,Infecciones respiratorias,Marginación baja,8.786241
+75,Infecciones y parasitos,Marginación baja,0.263253
+76,Malformaciones congenitas,Marginación baja,0.912692
+77,Otras enfermedades,Marginación baja,6.320274
+78,Otros accidentes,Marginación baja,3.165542
+79,Otros tumores,Marginación baja,3.303225
+80,Suicidios,Marginación baja,1.343914
+81,Trastornos mentales,Marginación baja,0.72447
+82,Tuberculosis,Marginación baja,0.479633
+83,Tumores Benignos,Marginación baja,0.097725
+84,Tumores malignos digestivos,Marginación baja,3.664852
+85,Tumores malignos genitourinarios,Marginación baja,2.831065
+86,Tumores malignos linfaticos,Marginación baja,1.183138
+87,Tumores malignos respiratorios,Marginación baja,1.130056
+88,Tumores tejido y huesos,Marginación baja,0.594436
+89,Virus,Marginación baja,0.960899
